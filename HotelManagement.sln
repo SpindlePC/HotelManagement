@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagement", "HotelManagement\HotelManagement.csproj", "{BB7B1851-44AD-497D-A46E-4825265519E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test jednostkowy hotel", "Test jednostkowy hotel\Test jednostkowy hotel.csproj", "{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test 2 Hotel", "Test 2 Hotel\Test 2 Hotel.csproj", "{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x64 = DVD-5|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.CD_ROM|x64.ActiveCfg = Release|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.CD_ROM|x64.Build.0 = Release|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Debug|x64.ActiveCfg = Debug|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Debug|x64.Build.0 = Debug|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.DVD-5|x64.ActiveCfg = Debug|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.DVD-5|x64.Build.0 = Debug|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Release|x64.ActiveCfg = Release|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.Release|x64.Build.0 = Release|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.SingleImage|x64.ActiveCfg = Release|x64
+		{BB7B1851-44AD-497D-A46E-4825265519E3}.SingleImage|x64.Build.0 = Release|x64
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.CD_ROM|x64.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.CD_ROM|x64.Build.0 = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Debug|x64.Build.0 = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.DVD-5|x64.ActiveCfg = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.DVD-5|x64.Build.0 = Debug|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Release|x64.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.Release|x64.Build.0 = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.SingleImage|x64.ActiveCfg = Release|Any CPU
+		{5BFDE9F8-5371-4C92-B9DC-C478E5AD6DEB}.SingleImage|x64.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.CD_ROM|x64.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.CD_ROM|x64.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Debug|x64.Build.0 = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.DVD-5|x64.ActiveCfg = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.DVD-5|x64.Build.0 = Debug|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Release|x64.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.Release|x64.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.SingleImage|x64.ActiveCfg = Release|Any CPU
+		{6EBC11F7-3B94-47E3-BB07-55DE6D503F70}.SingleImage|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BBD3DC2-979D-4237-A04D-142302A5B949}
+	EndGlobalSection
+EndGlobal
